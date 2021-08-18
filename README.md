@@ -1,2 +1,1 @@
-# empty_gitlab_project
-
+From Docker Udemy course
